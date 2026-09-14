@@ -1,0 +1,2 @@
+# RedFuck
+main menu script
